@@ -1,0 +1,2 @@
+# aGitIgnoreTest
+Testing out .gitignore :)
